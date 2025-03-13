@@ -28,7 +28,7 @@ const Header = () => {
           <div className="innerMenu">
             <span>Investor Relations</span>
             <span>Add restaurants</span>
-            <span>Log In</span>
+            <span>Log Innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn</span>
             <span>Sign Up</span>
           </div>
         </div>
